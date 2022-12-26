@@ -23,3 +23,5 @@
 hs_err_pid*
 
 /book-store/target/
+
+/BookStore/node_modules/
